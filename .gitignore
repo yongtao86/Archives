@@ -1,0 +1,23 @@
+# for Mac OS X System Files
+.DS_Store
+Thumbs.db
+
+# for Eclipse
+*.project
+
+# remove SVN
+.svn
+
+# for IDEA
+*/build/*
+.idea/*
+*.iml
+/out/*
+target/
+.idea
+*/target
+*/*.iml
+*.iml
+————————————————
+版权声明：本文为CSDN博主「糖冰橙」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/tt75281920/article/details/105195736
